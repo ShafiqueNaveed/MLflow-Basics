@@ -1,14 +1,20 @@
 # MLflow-Basics
 
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/chest-Disease-Classification-MLflow-DVC.mlflow
-MLFLOW_TRACKING_USERNAME=entbappy
-MLFLOW_TRACKING_PASSWORD=6824692c47a4545eac5b10041d5c8edbcef0
+# For Dugshup
+
+MLFLOW_TRACKING_URI=https://dagshub.com/ShafiqueNaveed/MLflow-Basics.mlflow \
+MLFLOW_TRACKING_USERNAME=ShafiqueNaveed \
+MLFLOW_TRACKING_PASSWORD=6d335d67bb07273580dba0d7a7e7e5b8cea85ebe \
 python script.py
+
+```bash
 
 Run this to export as env variables:
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/chest-Disease-Classification-MLflow-DVC.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/ShafiqueNaveed/MLflow-Basics.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+export MLFLOW_TRACKING_USERNAME=ShafiqueNaveed 
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9353c5b10041d5c8edbcef0 
+export MLFLOW_TRACKING_PASSWORD=6d335d67bb07273580dba0d7a7e7e5b8cea85ebe  
+
+```
